@@ -19,10 +19,10 @@ A continuacion vamos a ver el estado de dnsmasq
 <a name="configuracion"></a>
 ### 2. Configuración
 <a name="pruebas"></a>
-Accedemos al fichero /etc/dnsmasq.conf y hacemos las siguientes modificaciones
+Accedemos al fichero /etc/dnsmasq.conf y hacemos las siguientes modificaciones  
 ![imagen](imagenes/stric.jpg)
 ![imagen](imagenes/server.jpg) 
 ### 3. Pruebas de Funcionamiento
-Realizamos un nslookup para ver que el cliente pilla los dns
+Realizamos un nslookup para ver que el cliente pilla los dns  
 ![imagen](imagenes/comprobacion.jpg) 
 ## Referencias
