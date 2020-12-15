@@ -15,13 +15,13 @@ Para la instalación de DNSMASQ solo necesitaremos un comando:
 $ apt-get install -y dnsmasq resolvconf
 ```
 A continuacion vamos a ver el estado de dnsmasq  
-![imagen](/Imagenes/status.jpg)  
+![imagen](Imagenes/status.JPG)  
 <a name="configuracion"></a>
 ### 2. Configuración
 <a name="pruebas"></a>
 Accedemos al fichero /etc/dnsmasq.conf y hacemos las siguientes modificaciones  
-![imagen](imagenes/stric.jpg)
-![imagen](imagenes/server.jpg) 
+![imagen](Imagenes/stric.JPG)
+![imagen](Imagenes/server.JPG) 
 ### 3. Pruebas de Funcionamiento
 Realizamos un nslookup para ver que el cliente pilla los dns  
 ![imagen](Imagenes/comprobacion.JPG) 
