@@ -24,5 +24,5 @@ Accedemos al fichero /etc/dnsmasq.conf y hacemos las siguientes modificaciones
 ![imagen](imagenes/server.jpg) 
 ### 3. Pruebas de Funcionamiento
 Realizamos un nslookup para ver que el cliente pilla los dns  
-![imagen](imagenes/comprobacion.jpg) 
+![imagen](Imagenes/comprobacion.JPG) 
 ## Referencias
