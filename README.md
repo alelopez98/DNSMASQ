@@ -10,6 +10,10 @@ DNSMASQ proporciona redireccionador de sistema de nombres de dominio (DNS), serv
 3. [Pruebas](#pruebas)
 <a name="instalacion"></a>
 ### 1. Instalación
+Para la instalación de DNSMASQ solo necesitaremos un comando:
+```
+$ apt -y install dnsmasq resolvconf
+```
 <a name="configuracion"></a>
 ### 2. Configuración
 <a name="pruebas"></a>
