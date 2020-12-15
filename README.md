@@ -26,3 +26,5 @@ Accedemos al fichero /etc/dnsmasq.conf y hacemos las siguientes modificaciones
 Realizamos un nslookup para ver que el cliente pilla los dns  
 ![imagen](Imagenes/comprobacion.JPG) 
 ## Referencias
+- [Pagina de referencia](https://www.server-world.info/en/note?os=Debian_10&p=dnsmasq&f=1)
+- [Video de referencia](https://www.youtube.com/watch?v=FJgJKp95lyE&ab_channel=MikeTheGeek)
